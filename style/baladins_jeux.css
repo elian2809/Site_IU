@@ -1,20 +1,28 @@
 .baladin_rouge{
+    text-decoration: none;
     color: red;
 }
 .bala_bleu_claire{
-    color: aqua;
-}
-.baladin_noir{
-    color: black;
-}
-.dain_bleu_claire{
-    color: blueviolet;
-}
-.baladin_bleu{
+    text-decoration: none;
     color: blue;
 }
+.baladin_noir{
+    text-decoration: none;
+    color: blue;
+}
+.dain_bleu_claire{
+    text-decoration: none;
+    color: violet;
+}
+.baladin_bleu{
+    text-decoration: none;
+    color: red;
+}
 .baladin_ok{
-    color: aqua;
+    text-decoration: none;
+    color: red;
 }
 .baladin_vert{
-    color: green;
+    text-decoration: none;
+    color: black;
+}
