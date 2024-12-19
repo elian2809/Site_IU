@@ -1,4 +1,18 @@
 
 body {
-     background-color: aquamarine;
+     background-color:deepskyblue;
+}
+p{
+     font-size: 1.25em;
+}
+.déja_fait{
+     display: inline-block; /* Assure que le mot s'encadre correctement */
+     border: 3px solid white; /* Style de la bordure */
+     padding: 10px; 
+     background-color:green;
+     color:white;
+}
+img{
+     width: 24.7%; /* L'image ne dépasse pas la taille de son conteneur */
+     height: auto;    /* Maintient les proportions *
 }
